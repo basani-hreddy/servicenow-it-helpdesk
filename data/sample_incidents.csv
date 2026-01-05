@@ -1,0 +1,6 @@
+Number,Short Description,Description,Priority,Business Impact,Vendor Ticket #,State,Assignment Group,Opened At,Resolved At
+INC0010001,Printer not working,User reports printer offline in office.,3,Medium,,In Progress,L1 Support,2026-01-01 09:00:00,2026-01-01 11:00:00
+INC0010002,Email access issue,Cannot send emails; possible server outage.,1,High,MS-12345,Resolved,L2 Support,2026-01-02 10:30:00,2026-01-02 12:45:00
+INC0010003,Slow network speed,Intermittent slow WiFi in conference room.,4,Low,,New,Network Team,2026-01-03 14:15:00,
+INC0010004,Software crash,Application crashes on launch.,2,Medium,APP-67890,In Progress,App Support,2026-01-04 08:45:00,
+INC0010005,Hardware failure,Laptop screen flickering.,3,Critical,,Resolved,Hardware Team,2026-01-04 13:00:00,2026-01-04 15:30:00
